@@ -1,3 +1,4 @@
 televisor
 coche 
-telefono
+teléfono
+sofá
